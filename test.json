@@ -1,0 +1,12 @@
+[
+    {
+        "User": "Segmentational",
+        "Cloud": "AWS",
+        "Subscription": {
+            "Tier": "BASIC",
+            "Organization": "IaC-Factory",
+            "Verified": true,
+            "Accounts": 3
+        }
+    }
+]
